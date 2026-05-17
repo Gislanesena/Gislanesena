@@ -29,9 +29,10 @@
 | Front-end | Back-end | Tools & Infra |
 |---|---|---|
 | ![HTML](https://skillicons.dev/icons?i=html) | ![C#](https://skillicons.dev/icons?i=cs) | ![Docker](https://skillicons.dev/icons?i=docker) |
-| ![CSS](https://skillicons.dev/icons?i=css) | ![Dotnet](https://skillicons.dev/icons?i=dotnet) | ![Postgres](https://skillicons.dev/icons?i=postgres) |
-| ![JavaScript](https://skillicons.dev/icons?i=js) | ![API](https://skillicons.dev/icons?i=visualstudio) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![TypeScript](https://skillicons.dev/icons?i=ts) |  | ![GitHub](https://skillicons.dev/icons?i=github) |
+| ![CSS](https://skillicons.dev/icons?i=css) | ![Python](https://skillicons.dev/icons?i=python) | ![Postgres](https://skillicons.dev/icons?i=postgres) |
+| ![JavaScript](https://skillicons.dev/icons?i=js) | ![C](https://skillicons.dev/icons?i=c) | ![Git](https://skillicons.dev/icons?i=git) |
+| ![TypeScript](https://skillicons.dev/icons?i=ts) | ![Dotnet](https://skillicons.dev/icons?i=dotnet) | ![GitHub](https://skillicons.dev/icons?i=github) |
+|  | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) | ![VSCode](https://skillicons.dev/icons?i=vscode) |
 
 </div>
 
@@ -42,7 +43,7 @@
 ```txt
 > whoami
 
-Creative developer passionate about technology, gamification and solving problems.
+Creative developer passionate about technology and solving problems.
 
 Currently working on BuildXP, an interactive learning platform designed to help beginner developers learn technologies through progression systems, terminal simulations and XP mechanics.
 
@@ -92,7 +93,7 @@ Interactive platform focused on helping beginner developers learn programming th
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5BC0FF)](SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5BC0FF)](www.linkedin.com/in/gislane-sena)
 
 </div>
 
