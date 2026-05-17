@@ -92,8 +92,8 @@ Interactive platform focused on helping beginner developers learn programming th
 # 📡 CONNECT
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5BC0FF)](www.linkedin.com/in/gislane-sena)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=5BC0FF)](https://www.linkedin.com/in/gislane-sena)
 
 </div>
 
