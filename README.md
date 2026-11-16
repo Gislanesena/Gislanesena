@@ -29,8 +29,8 @@
 ║  PILOTO .........: Gislane Sena                              ║
 ║  EQUIPE .........: BuildXP · Banca da Ciencia USP · WoHackers║
 ║  NUMERO .........: 01                                        ║
-║  CATEGORIA ......: Full Stack · rumo ao Back-end             ║
-║  MOTOR ..........: C# · .NET · Java · Python                 ║
+║  CATEGORIA ......: Desenvolvedora · Cybersecurity            ║
+║  MOTOR ..........: C# · .NET · Python · Automações           ║
 ║  PNEUS ..........: PostgreSQL · SQL Server · Docker · Git    ║
 ║  VOLTA RAPIDA ...: SatVantage · hackathon Bitcoin            ║
 ║  TEMPORADA ......: [#############.....] rumo ao GP de DEZ/26 ║
@@ -118,27 +118,27 @@ Da primeira volta até a linha de chegada — as posições que eu ocupei na pis
 >
 > [🔗 Ver projeto](https://sat-vantage-gislanesena.vercel.app)
 
-### 🎓 P3 — AxiomCode
-> Ambiente acolhedor para calouros de tecnologia. Foco em inspirar e apoiar ao longo do curso, reduzindo trancamento em cursos de TI.
+### 🎓 P3 — Sala de Crise
+> Ambiente de treino para situações de risco a segurança da informação e operacional com base em Normas de Segurança como ISO 27001.
 >
-> `C#` — [🔗 Ver no GitHub](https://github.com/Gislanesena/Projeto_Axiom)
+> `LGPD` `ISO 27001` — [🔗 Ver no GitHub](https://github.com/Gislanesena/saladecrise)
 
 ### 🏥 P4 — Sistema de Gestão para Hackathons
 > Uma plataforma de gamificação, com foco em transformar a colaboração entre participantes em uma experiência divertida, justa e engajadora.
 >
 > `Next.js` `Vercel` — [🔗 Ver no GitHub](https://github.com/Gislanesena/programahackathoncb)
 
-### 🌱 P5 — Gestão Ambiental
+###  P5 — Alerta de Vagas
 > Sistema em C para gestão ambiental de startups: cadastro de indústrias, relatórios e gerenciamento com PDCA, Scrum, PERT, Gantt e Kanban.
 >
-> `C` `Metodologias Ágeis` — [🔗 Ver no GitHub](https://github.com/Gislanesena/Gerenciamento_Startup)
+> `Python` `API GROQ` — [🔗 Ver no GitHub](https://github.com/Gislanesena/Automa-o-Alerta-de-vagas)
 
 ---
 
 ## 🎯 ESTRATÉGIA DA TEMPORADA
 
-- 🔩 Aprofundar em arquitetura back-end com **.NET**
-- 🗄️ Dominar bancos relacionais (**PostgreSQL**)
+- 🔩 Aprofundar em Segurança da Informação e Automações
+- 🗄️ Dominar bancos relacionais
 - 🎓 Primeiros 100 devs iniciantes completando uma trilha no BuildXP
 - 🌍 Contribuir em projetos **open source** maiores
 - 🏁 Cruzar a linha de chegada da graduação em **dez/26**
